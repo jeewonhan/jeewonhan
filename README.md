@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi, I'm Jeewon, a data scientist and current graduate student at Johns Hopkins Univeristy in the Department of Applied Mathematics and Statistics. My passion lies in collaborative, logic-driven problem-solving and my particular interest is in the convergence of data and entertainment and the arts—-it's at this intersection where the fusion of creativity and data generates novel, innovative insights that can inspire transformative changes in how we consume and produce art.
+Hi, I'm Jeewon, a data scientist and current graduate student at Johns Hopkins Univeristy in the Department of Applied Mathematics and Statistics. My passion lies in collaborative, logic-driven problem-solving and my particular interest is in the convergence of data and entertainment and the arts—it's at this intersection where the fusion of creativity and data generates novel, innovative insights that can inspire transformative changes in how we consume and produce art.
 
 ## Featured Project: "Saving Cinema: Designing Movie Theater Showing Schedules"
 ### Project Overview
