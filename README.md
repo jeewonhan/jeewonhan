@@ -4,7 +4,7 @@
 
 Hi, I'm Jeewon, a data scientist and current graduate student at Johns Hopkins Univeristy in the Department of Applied Mathematics and Statistics. My passion lies in collaborative, logic-driven problem-solving and my particular interest is in the convergence of data and entertainment and the arts—it's at this intersection where the fusion of creativity and data generates novel, innovative insights that can inspire transformative changes in how we consume and produce art.
 
-## Featured Project: "Saving Cinema: Designing Movie Theater Showing Schedules"
+## Featured Project: "Saving Cinema: Designing Movie Theater Showing Schedules" ([Link](https://github.com/jeewonhan/Movie-Theater-Schedule-Optimization))
 ### Project Overview
 As it stands, the current focal point of my portfolio is a project entitled "Saving Cinema: Designing Movie Theater Showing Schedules," which was a semester-long endeavor to predict box office revenues for upcoming movies in order to optimizing movie theater showing schedules.
 
