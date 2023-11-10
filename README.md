@@ -14,4 +14,4 @@ In recent years, the movie theater industry has faced financial challenges exace
 The primary objective is to build a predictive model using movie metadata to forecast the profitability of showing upcoming films for a movie theater company. Leveraging data from *TMDB (The Movie Database)*, *Box Office Mojo*, and additional sources on revenue streams for movie theaters, the model aims to guide decisions on which movies to show, how often, and for how long.
 
 ### Methodology
-The project involves careful feature engineering to maximize the predictive power of data, considering variables like cast, budget, director, and genre, to name a few. Other selected techniques include k-means clustering, spectral embedding, Bayesian imputation, and more.
+The project involves careful feature engineering to maximize the predictive power of data, considering variables like cast, budget, director, and genre, to name a few. Other selected techniques include k-means clustering, spectral embedding, regression imputation, and more.
